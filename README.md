@@ -8,4 +8,4 @@ then just cd into the directory that you downloaded the python file to for examp
 
 
 DISCLAMER:
-this is NOT meant for being used with multiple people at once as all of the keys arent stored in an emv file there just in the code is is highly recomended that you only use this tool personaly
+this is NOT meant for being used with multiple people at once as all of the keys are NOT stored in an emv file there just in the code is is highly recomended that you only use this tool personaly
